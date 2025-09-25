@@ -1,0 +1,18 @@
+body {
+  background-color: lightpink;
+}
+p {
+  font-family: 'Arial', sans-serif;
+  font-size: 26px;
+  color: grey;
+}
+h1{
+  font-size: 46px;
+  color: black;
+}
+a{
+  font-size:36px;
+}
+h1{
+   padding:20px 500px
+}

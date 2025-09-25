@@ -5,16 +5,18 @@ p {
   font-family: 'Arial', sans-serif;
   font-size: 26px;
   color: grey;
+  margin-left: 50px
 }
 h1{
   font-size: 46px;
   color: black;
 }
 a{
-  font-size:36px;
+  font-size:26px;
    color: red;
 }
 h1{
    padding:20px 500px
 
 }
+
